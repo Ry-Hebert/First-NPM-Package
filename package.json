@@ -1,5 +1,5 @@
 {
-  "name": "first-npm-package",
+  "name": "@ryanhebert/first-npm-package",
   "version": "1.0.0",
   "description": "This is a basic set of tools published as an npm package",
   "main": "index.js",
